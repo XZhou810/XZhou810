@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xuan Zhou! I hold a BMed in public health (Zhejiang University) and am currently a third-year PhD student in genetic epidemiology (University of Edinburgh).
-- 👀 My PhD project aims to investigate prognostic biomarkers for diabetes complications using statistical genetic and data science methodologies.
+- 👀 My PhD project aims to investigate biomarkers for type 1 diabetes using statistical genetic and data science methodologies.
 - Apart from this, I had research experience in cancer genetic epidemiology.
 - 📫 How to reach me xuan.zhou@ed.ac.uk.
 
